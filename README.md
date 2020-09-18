@@ -1,1 +1,1 @@
-# Repository for storing projects for School, business and online courses
+# Repository for storing projects for school, business and online learning courses.
